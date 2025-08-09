@@ -6,7 +6,7 @@ Tệp ngôn ngữ cho Apktool M.
 2. Chỉnh sửa;
 3. Commit và gửi Pull request tới nhánh main của Maximoff;
 
-[Документация GitHub](https://help.github.com/articles/using-pull-requests/ "Документация GitHub")
+[Tài liệu GitHub](https://help.github.com/articles/using-pull-requests/ "Документация GitHub")
 
 Vui lòng sử dụng trình dịch tích hợp sẵn của Apktool M, hoặc tự sửa thủ công các ký tự sau:
 1. `<` thành `&lt;`.

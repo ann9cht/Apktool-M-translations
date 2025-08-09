@@ -785,6 +785,8 @@
 	<string name="user_cache_summary">Chọn nơi lưu trữ thư mục tệp tạm thời</string>
 	<string name="snowfall">Bật hiệu ứng tuyết rơi</string>
 	<string name="snowfall_summary">Hiệu ứng tuyết rơi trong chương trình cho dịp Tết</string>
+	<string name="install_options">Tuỳ chọn cài đặt</string>
+	<string name="install_options_summary">Chọn cách apk được cài đặt</string>
 	<string name="shell_cmd">Lệnh shell</string>
 	<string name="shell_cmd_summary">Trình shell để chạy các script shell</string>
 	<string name="shell_cmd_root">Lệnh root</string>
@@ -807,6 +809,7 @@
 	<string name="search_regexp">Biểu thức chính quy</string>
 	<string name="search_sen2">Phân biệt chữ hoa và chữ thường</string>
 	<string name="search_loop">Lặp lại tìm kiếm</string>
+	<string name="both_options">Cả hai</string>
 	<string name="minfo">Thông tin</string>
 	<string name="mauto">Tự động</string>
 	<string name="permissions">Quyền</string>
